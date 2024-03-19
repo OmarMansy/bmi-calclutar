@@ -1,5 +1,4 @@
 {
-  // "homepage": "https://OmarMansy.github.io/bmi-calclutar",
   "name": "bmi-calclutar",
 
   "private": true,
@@ -9,8 +8,6 @@
   "type": "module",
 
   "scripts": {
-    // "predeploy":"npm run bulid",
-    // "deploy": "gh-pages -d build",
     "dev": "vite",
 
     "build": "vite build",
